@@ -1,0 +1,5 @@
+For Comx Members This Is Our VCS.
+We Will Redirect Most Of Our Projects From Here, There will be no confusion anymore
+and all of you will contribute in the development of the application.
+Try to learn how to use Git and thats it.
+We Will make our way through and ComX is the Best.
